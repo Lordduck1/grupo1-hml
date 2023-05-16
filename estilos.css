@@ -1,7 +1,19 @@
 #streaming{
     background-color: white;
-    padding: 60%;
+    padding: 60px;
+}
+#chroma-key h2{
+    color: #005780;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 70px;
+
 }
 #chroma-key{
     background-color: #5c9fc0;
+    padding-top: 50px;
+    padding-bottom: 61px;
+    
 }
