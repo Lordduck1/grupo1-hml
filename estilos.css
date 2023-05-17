@@ -9,11 +9,33 @@
     font-weight: 400;
     font-size: 40px;
     line-height: 70px;
-
 }
+
 #chroma-key{
     background-color: #5c9fc0;
     padding-top: 50px;
     padding-bottom: 61px;
-    
+}
+#chroma-key p{
+    color: #70706E;
+}
+#ruedas-de-negocios-virtuales{
+    background: linear-gradient(214.85deg, #0DAEDB 11.2%, #037FA2 79.48%);
+}
+#ruedas-de-negocios-virtuales h2{
+    padding-top: 50px;
+    text-align: center;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 70px;
+}
+#ruedas-de-negocios-virtuales p{
+    padding-bottom: 64px;
+}
+#ruedas-de-negocios-virtuales img{
+    border-radius: 10px;
+    padding-top: 149px;
+    padding-bottom: 109px;
 }
