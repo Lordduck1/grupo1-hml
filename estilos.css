@@ -2,6 +2,10 @@
     background-color: white;
     padding: 60px;
 }
+#streaming h2{
+    color: #005780;
+    font-size: 40px;
+}
 #chroma-key h2{
     color: #005780;
     font-family: 'Inter';
@@ -12,17 +16,17 @@
 }
 
 #chroma-key{
-    background-color: #5c9fc0;
+    background: #5C9FC0;
     padding-top: 50px;
     padding-bottom: 61px;
 }
 #chroma-key p{
     color: #70706E;
 }
-#ruedas-de-negocios-virtuales{
+#Ruedas-De-Negocios-Virtuales{
     background: linear-gradient(214.85deg, #0DAEDB 11.2%, #037FA2 79.48%);
 }
-#ruedas-de-negocios-virtuales h2{
+#Ruedas-De-Negocios-Virtuales h2{
     padding-top: 50px;
     text-align: center;
     font-family: 'Inter';
@@ -31,11 +35,15 @@
     font-size: 40px;
     line-height: 70px;
 }
-#ruedas-de-negocios-virtuales p{
+#Ruedas-De-Negocios-Virtuales p{
     padding-bottom: 64px;
 }
-#ruedas-de-negocios-virtuales img{
+#Ruedas-De-Negocios-Virtuales img{
     border-radius: 10px;
     padding-top: 149px;
     padding-bottom: 109px;
+}
+.bloque-azul{
+    display: table-cell;
+    
 }
