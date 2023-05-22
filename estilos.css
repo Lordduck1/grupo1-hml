@@ -4,11 +4,25 @@
 }
 #streaming h2{
     color: #005780;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
     font-size: 40px;
+    line-height: 70px;
+}
+#streaming p{
+    color: #70706E;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
 }
 #chroma-key h2{
     color: #005780;
     font-family: 'Inter';
+    align-items: center;
+    display: flex;
     font-style: normal;
     font-weight: 400;
     font-size: 40px;
@@ -16,7 +30,7 @@
 }
 
 #chroma-key{
-    background: #5C9FC0;
+    background-color: RGBA(92,159,192,0.2);
     padding-top: 50px;
     padding-bottom: 61px;
 }
@@ -27,6 +41,7 @@
     background: linear-gradient(214.85deg, #0DAEDB 11.2%, #037FA2 79.48%);
 }
 #Ruedas-De-Negocios-Virtuales h2{
+    color: #FFFFFF;
     padding-top: 50px;
     text-align: center;
     font-family: 'Inter';
@@ -36,12 +51,22 @@
     line-height: 70px;
 }
 #Ruedas-De-Negocios-Virtuales p{
+    color: #FFFFFF;
+    padding-top: 40px;
     padding-bottom: 64px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
 }
 #Ruedas-De-Negocios-Virtuales img{
     border-radius: 10px;
-    padding-top: 149px;
-    padding-bottom: 109px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 70px;
 }
 .bloque-azul{
     display: table-cell;
